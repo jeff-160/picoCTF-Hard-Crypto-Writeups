@@ -1,5 +1,7 @@
 ## triple-secure  
 
+<img src="chall.png" width=600>
+
 ### Deepseek Prompt
 ```
 #!/usr/bin/env python3
