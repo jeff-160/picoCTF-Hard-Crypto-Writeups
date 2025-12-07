@@ -1,3 +1,3 @@
-<img src="meme.png" width=600>
+<img src="meme.jpg" width=600>
 
-generation beyond fried bro 🥀
+live machine elf reaction  
